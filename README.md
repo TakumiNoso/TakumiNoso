@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TakumiNoso)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakumiNoso)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Programming Languages](https://skillicons.dev/icons?i=arduino,css,discord,docker,git,github,githubactions,gradle,html,js,kotlin,latex,matlab,mysql,nginx,nodejs,npm,php,powershell,prisma,processing,py,react,sqlite,tailwind,ts,vite,vscode,wordpress)](https://skillicons.dev)
