@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TakumiNoso)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Programming Languages](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=arduino,css,discord,docker,git,github,githubactions,gradle,html,js,kotlin,latex,matlab,mysql,nginx,nodejs,npm,php,powershell,prisma,processing,py,react,sqlite,tailwind,ts,vite,vscode,wordpress)](https://skillicons.dev)
